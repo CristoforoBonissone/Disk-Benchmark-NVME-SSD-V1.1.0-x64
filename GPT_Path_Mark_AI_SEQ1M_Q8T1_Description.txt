@@ -1,4 +1,4 @@
-GPT Path Mark AI
+Disk Benchmark NVME SSD V1.1.0 x64
 
 SEQ1M Q8T1
 
@@ -74,8 +74,8 @@ Typical operations include:
 
 ------------------------------------------------------------------------
 
-GPT Path Mark AI
+Disk Benchmark NVME SSD V1.1.0 x64
 
-GPT Path Mark AI measures the real performance of a selected folder
+Disk Benchmark NVME SSD V1.1.0 x64 measures the real performance of a selected folder
 through the Windows file system, providing results that closely
 represent everyday file copy operations.
