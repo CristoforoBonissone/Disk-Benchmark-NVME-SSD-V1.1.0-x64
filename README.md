@@ -40,7 +40,7 @@ The test is designed to measure sustained storage throughput.
 
 ➡ **Download the latest release**
 
-https://github.com/CristoforoBonissone/GPT-Path-Mark-AI/releases/latest
+https://www.dacris.it/dbns/index.html
 
 ## Author
 
