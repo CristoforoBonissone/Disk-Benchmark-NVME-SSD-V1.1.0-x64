@@ -1,8 +1,8 @@
-# GPT Path Mark AI
+# Disk Benchmark NVME SSD V1.1.0 x64
 
 ![GPT Path Mark AI](pic_a.png)
 
-# GPT Path Mark AI
+# Disk Benchmark NVME SSD V1.1.0 x64
 
 ![GPT Path Mark AI](pic_b.png)
 
@@ -42,18 +42,10 @@ The test is designed to measure sustained storage throughput.
 
 https://github.com/CristoforoBonissone/GPT-Path-Mark-AI/releases/latest
 
-## Virus Total Report 1/66 (False Positive)
-
-A 1 False Positive to 66 is Possible but here Everyting is Clean
-
-![GPT Path Mark AI](virustotal.jpg)
-
-https://www.virustotal.com/gui/file/1e5d17de7286fa875ec9e69fcf2b2ff1d6fe487e7abab72f2b9f58bf9f5a1b8e?nocache=1
-
 ## Author
 
 Cristoforo Bonissone  
-https://www.dacris.it/gptpm/index.html
+https://www.dacris.it/dbns/index.html
 
 ## License
 
