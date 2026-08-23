@@ -1,10 +1,10 @@
 # Disk Benchmark NVME SSD V1.1.0 x64
 
-![GPT Path Mark AI](pic_a.png)
+![Disk-Benchmark-NVME-SSD-V1.1.0-x64](pic_a.png)
 
 # Disk Benchmark NVME SSD V1.1.0 x64
 
-![GPT Path Mark AI](pic_b.png)
+![Disk-Benchmark-NVME-SSD-V1.1.0-x64](pic_b.png)
 
 ## Benchmark
 
